@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f6f8ff;
+  --accent-color: #1854fb;
+  --accent-text: #2d2d2e;
+  --arrow-bg: #dbe4fb;
+  --gray-text: #adabb6;
+  --avatar-bg: #dbe4fb;
+  --review-box-bg: #f6f6f8;
+}

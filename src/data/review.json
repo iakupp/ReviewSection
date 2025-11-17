@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "avatar": "/avatar.svg",
+    "title": "Doubravovi",
+    "date": "duben 2025",
+    "message": "Zakoupil jsem si standartní balíček Matguard pro svůj byt nemůžu si jej vynachválit. Instalace proběhla před 1 rokem a ovládání je velmi praktické."
+  },
+  {
+    "id": 2,
+    "avatar": "/avatar.svg",
+    "title": "Majercik",
+    "date": "leden 2025",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque fermentum fringilla ipsum nec mollis. Vivamus sit amet ante tellus. Praesent ac scelerisque libero. Nullam posuere pretium metus. Etiam venenatis erat ac vulputate tempor. Quisque bibendum lectus ac arcu vulputate aliquam."
+  },
+  {
+    "id": 2,
+    "avatar": "/avatar.svg",
+    "title": "Lorem Ipsum",
+    "date": "listopad 2025",
+    "message": "Cras auctor suscipit suscipit. Sed egestas quis leo eget feugiat. Vivamus sapien ante, accumsan in sem quis, tincidunt egestas tortor. Duis risus ligula, pulvinar nec nisi quis, sodales blandit metus."
+  }
+]
