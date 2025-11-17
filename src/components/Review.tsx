@@ -22,10 +22,10 @@ const Review = () => {
   const { id, avatar, title, date, message } = testemonials[currentReview];
 
   return (
-    <div className="bg-(--background) my-[123px] w-[425px] h-[434px] p-[1.25em] z-10 md:w-[700px] xl:w-full xl:h-[694px] xl:flex justify-center items-center">
+    <div className="bg-(--background) my-[123px] mx-auto w-full max-w-[425px] h-[434px] md:p-[1.25em] z-10 md:max-w-[700px] lg:max-w-full xl:max-w-full xl:h-[694px] xl:flex justify-center items-center">
       <div
         id="container"
-        className="mt-[3em] xl:mt-0 xl:mx-auto xl:w-[1199px] relative xl:h-[540px]"
+        className="w-full px-[20px] max-w-[425px] md:px-0 mt-[3em] xl:mt-0 mx-auto lg:max-w-[1000px] xl:max-w-[1199px] relative xl:h-[540px]"
       >
         <ReviewHeader prevReview={prevReview} nextReview={nextReview} />
         <ReviewBox id={id} title={title} date={date} message={message} />

@@ -27,12 +27,12 @@ const ReviewBackgroundArt = ({ avatar }: ReviewAvatarProps) => {
         <Image
           src={dotsLarge}
           alt="dots"
-          className="absolute bottom-[-.7em] left-[2.5em] md:left-[4.5em] xl:left-[20.5em] xl:bottom-[.9em] z-[-1]"
+          className="absolute bottom-[-.7em] left-[2.5em] md:left-[1.5em] lg:left-[15em] xl:left-[20.5em] xl:bottom-[.9em] z-[-1]"
         />
         <Image
           src={dotsSmall}
           alt="dots"
-          className="absolute bottom-[-3.3em] left-[2.5em] md:left-[4.5em] xl:left-[20.5em] xl:bottom-[-1.8em] z-[-1]"
+          className="absolute bottom-[-3.3em] left-[2.5em] md:left-[1.5em] lg:left-[15em] xl:left-[20.5em] xl:bottom-[-1.8em] z-[-1]"
         />
       </div>
     </>
